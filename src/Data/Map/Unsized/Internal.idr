@@ -1,5 +1,5 @@
 ||| Map Internals
-module Data.Map.Internal
+module Data.Map.Unsized.Internal
 
 import Data.List
 import Data.String

@@ -1,7 +1,7 @@
 ||| Finite Maps
-module Data.Map
+module Data.Map.Unsized
 
-import public Data.Map.Internal
+import public Data.Map.Unsized.Internal
 
 import Data.Bits
 import Data.List
