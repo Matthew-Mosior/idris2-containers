@@ -34,6 +34,8 @@ modules    = Data.BoundedQueue.Sized
            , Data.RRBVector1.Unsized
            , Data.RRBVector1.Sized.Internal
            , Data.RRBVector1.Unsized.Internal
+           , Data.RRBVector1.ThreadSafe.Sized
+           , Data.RRBVector1.ThreadSafe.Unsized
            , Data.Seq.Internal
            , Data.Seq.Sized
            , Data.Seq.Unsized
